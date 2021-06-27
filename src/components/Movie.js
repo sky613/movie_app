@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 function Movie({ id, year, title, summary, poster, genres }) {
   return (
-    // test
+    // test 1
     <div className="movie">
       <Link
         to={{
